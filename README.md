@@ -1,4 +1,4 @@
-# React JS Calculator
+# React JS Simple Counter
 
 ## Live application URL
 
